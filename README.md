@@ -41,7 +41,7 @@ Go version = 1.17.5
 | -nbVertices                     | Initial number of vertices                    |
 | -mu, -sigma, -dMu, -dSigma      | Parameters of the Gaussian distribution       |
 | -s, -v, -iMax, -dS, -dV, -dImax | Parameters of the Zipfian distribution        |
-| -h, -b, -k                      | parameters of the hierarchical community tree |
+| -h, -b, -k                      | Parameters of the hierarchical community tree |
 
 ----
 
